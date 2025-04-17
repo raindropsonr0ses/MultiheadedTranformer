@@ -1,6 +1,4 @@
-# -*- coding: utf-8 -*-
-"""DataPreprocessingSegmentHumanoid
-"""
+#DataPreprocessingSegmentHumanoid
 
 import re
 import numpy as np
