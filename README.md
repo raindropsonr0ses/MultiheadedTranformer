@@ -1,4 +1,4 @@
-# Multi-Head Transformer Approach for Classification and Interpretation of functional Near Infrared Spectroscopy Data
+# Multi-Head Transformer Approach for Classification and Interpretation of functional Near Infrared Spectroscopy (fNIRS) Data
 
 <div align="justify">
 In this experimental paradigm, subjects interacted with a humanoid robot. The protocol includes several well defined events: a resting state (used as baseline), informal interaction with the robot, and segments where the robot tells two different stories. Each story is designed to incorporate key emotional milestones such as moments of excitement, surprise, or contemplation by embedding specific narrative triggers. These milestones are hypothesized to induce distinct patterns of neural activation and changes in functional connectivity among cortical regions.
